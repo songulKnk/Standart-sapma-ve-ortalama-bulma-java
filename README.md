@@ -1,0 +1,1 @@
+# Standart-sapma-ve-ortalama-bulma-java
